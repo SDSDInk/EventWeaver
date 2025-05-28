@@ -30,3 +30,5 @@ Unity Technologies SF (“Unity”) grants to you a worldwide, non-exclusive, no
 10. Governing Law and Venue. This License is governed by and construed in accordance with the laws of the United States and the state of California, except for its conflict of laws rules; the United Nations Convention on Contracts for the International Sale of Goods will not apply. You and Unity agree to submit to the personal and exclusive jurisdiction of and venue in the state and federal courts located in San Francisco County, California concerning any dispute arising out of this License.
 
 This license is bound by the most recent version of the Unity Companion License: https://unity.com/legal/licenses/unity-companion-license
+
+Copyright (c) 2025 [Devon Lively - SDSDInk]
