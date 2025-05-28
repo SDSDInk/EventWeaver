@@ -1,3 +1,9 @@
+Want to support me? Wishlist my game to say thank you!
+https://store.steampowered.com/app/3740100/Workplace_Hazard/
+
+Demo of this asset in use:
+https://devonlively.com/webgl/eventweaver/pillarbox/
+
 ## License
 
 This project is licensed under the [Unity Companion License](https://unity.com/legal/licenses/unity-companion-license).
