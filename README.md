@@ -9,6 +9,8 @@ This means you can use, modify, and distribute this project **only as part of Un
 
 For more details, see the LICENSE.md file.
 
+![EventWeaver Card](https://github.com/SDSDInk/EventWeaver/blob/main/Card.png?raw=true)
+
 # EventWeaver
 A unity asset that allows for sequential Unity Events
 
