@@ -1,4 +1,4 @@
-Want to support me? Wishlist my game to say thank you!
+Wishlist my game to say thank you!
 https://store.steampowered.com/app/3740100/Workplace_Hazard/
 
 Demo of this asset in use:
