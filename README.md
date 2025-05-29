@@ -1,3 +1,7 @@
+There are no docs, but its pretty straight forward.
+Just drag the EventManager into your scene. And you can start with the 2D Event Prefabs to start making events.
+Variables and Switches are scriptable objects.
+
 Wishlist my game to say thank you!
 https://store.steampowered.com/app/3740100/Workplace_Hazard/
 
