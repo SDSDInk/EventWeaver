@@ -1,15 +1,5 @@
-There are no docs, but its pretty straight forward.
-Just drag the EventManager into your scene. And you can start with the 2D Event Prefabs to start making events.
-Variables and Switches are scriptable objects.
-
-Wishlist my game to say thank you!
+# Wishlist my game to say thank you!
 https://store.steampowered.com/app/3740100/Workplace_Hazard/
-
-Demo of this asset in use:
-https://devonlively.com/webgl/eventweaver/pillarbox/
-
-Need help?
-https://discord.com/invite/xXwEuj6gKy
 
 ## License
 
@@ -21,3 +11,18 @@ For more details, see the LICENSE.md file.
 
 # EventWeaver
 A unity asset that allows for sequential Unity Events
+
+There are no docs, but its pretty straight forward.
+Just drag the EventManager into your scene. And you can start with the 2D Event Prefabs to start making events.
+Variables and Switches are scriptable objects.
+
+Demo of this asset in use:
+https://devonlively.com/webgl/eventweaver/pillarbox/
+
+Need help?
+https://discord.com/invite/xXwEuj6gKy
+
+Some Links:
+https://DevonLively.com
+https://SDSDInk.com
+https://www.facebook.com/OfficialSDSD/
