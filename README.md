@@ -32,3 +32,5 @@ https://DevonLively.com
 https://SDSDInk.com
 
 https://www.facebook.com/OfficialSDSD/
+
+You can credit SDSDInk if you want, but no need.
