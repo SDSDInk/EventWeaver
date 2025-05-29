@@ -1,4 +1,4 @@
-# Wishlist my game to say thank you!
+# Wishlist my game to show your support!
 https://store.steampowered.com/app/3740100/Workplace_Hazard/
 
 ## License
